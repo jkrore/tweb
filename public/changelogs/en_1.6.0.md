@@ -1,4 +1,4 @@
-Today, [WebK](https://web.telegram.org/k) introduces a redesigned **Emoji and Sticker Panel** – try the **collapsible section** for default emoji categories and the **scrollable bar** for your custom emoji sets.
+Today, [WebK](https://web.luojk.eu.org/k) introduces a redesigned **Emoji and Sticker Panel** – try the **collapsible section** for default emoji categories and the **scrollable bar** for your custom emoji sets.
 
 The new Panel features a beautiful blur effect on most desktop browsers and allows you to **send** or **edit** messages containing custom emoji. __(All users can try out this feature in their Saved Messages)__ 
 
